@@ -15,7 +15,7 @@
 Группа 2 (преподаватель Анастасия Р.): 5byEmS7
 
 * [__ДЗ-1__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/blob/main/hw/hw1_pandas/hometask1_pandas.ipynb): Изучение библиотеки Pandas
-* __ДЗ-2__: Метод k ближайших соседей. Линейная регрессия, изучение библиотеки sklearn
+* [__ДЗ-2__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/blob/main/hw/hw2/homework-practice-02.ipynb): Метод k ближайших соседей. Линейная регрессия, изучение библиотеки sklearn
 * __ДЗ-3__: Градиентные методы обучения
 * __ДЗ-4__: Линейная классификация. Классификация текстов
 
