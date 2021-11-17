@@ -7,6 +7,7 @@
 * [__семинар 1__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week1_intro), 27.10.21 – Основные понятия в машинном обучении
 * [__семинар 2__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week2_knn), 03.11.21 – Метод K ближайших соседей: запуск с помощью sklearn, реализация, особенности и проблемы метода
 * [__семинар 3__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week3_linreg), 10.11.21 – Линейная регрессия, аналитический вывод весов, регуляризация, метрики качества для регрессии
+* [__семинар 4__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week4_grad), 17.10.21 – Линейная регрессия и градиентное обучение
 
 ## Домашние задания
 
