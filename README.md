@@ -12,6 +12,7 @@
 * [__семинар 4__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week4_grad), 17.11.21 – Линейная регрессия и градиентное обучение
 * [__семинар 5__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week5_linclass), 24.11.21 – Модификации градиентного спуска, обнуление весов L1 регуляризацией, линейная классификация
 * __семинар 6__, 01.12.2021 – Метрики качества в задаче бинарной классификации
+* [__семинар 7__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week7_logreg_svm), 08.12.2021 – Логистическая регрессия и метод опорных векторов
 
 ## Домашние задания
 
