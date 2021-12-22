@@ -16,6 +16,7 @@
 * __семинар 6__, 01.12.2021 – Метрики качества в задаче бинарной классификации
 * [__семинар 7__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week7_logreg_svm), 08.12.2021 – Логистическая регрессия и метод опорных векторов
 * [__семинар 8__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week8_text_preprocessing), 15.12.2021 – Предобработка данных, классификация текстов. [Ноутбук с семинара в google colab](https://colab.research.google.com/drive/1Hz8CO5-5kSh5fwC65c_u5hwhrcIn3y9R?usp=sharing)
+* [__семинар 9__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week9_multiclass), 22.12.2021 – Многоклассовая классификация + метрики качества, классификация с пересекающимися классами + метрики качества
 
 ## Домашние задания
 
