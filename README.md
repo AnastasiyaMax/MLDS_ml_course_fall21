@@ -29,6 +29,7 @@
 * [__ДЗ-2__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/blob/main/hw/hw2/homework-practice-02.ipynb): Метод k ближайших соседей. Линейная регрессия, изучение библиотеки sklearn
 * [__ДЗ-3__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/blob/main/hw/hw3_grad/homework-practice-03.ipynb): Градиентные методы обучения
 * [__ДЗ-4__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/blob/main/hw/hw4_text_classification/homework-practice-04-classification.ipynb): Линейная классификация. Классификация текстов
+* [__ДЗ-5__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/blob/main/hw/hw5_trees.ipynb): Решающие деревья
 
 ## Формула оценки
 
