@@ -18,6 +18,7 @@
 * [__семинар 8__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week8_text_preprocessing), 15.12.2021 – Предобработка данных, классификация текстов. [Ноутбук с семинара в google colab](https://colab.research.google.com/drive/1Hz8CO5-5kSh5fwC65c_u5hwhrcIn3y9R?usp=sharing)
 * [__семинар 9__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week9_multiclass), 22.12.2021 – Многоклассовая классификация + метрики качества, классификация с пересекающимися классами + метрики качества
 * [__семинар 10__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week10_trees), 12.01.2021 – Решающие деревья и случайный лес
+* [__семинар 11__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week11_bagging-bvd), 26.01.2021 – Разложение ошибки на смещение и разброс, беггинг
 
 ## Домашние задания
 
