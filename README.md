@@ -21,6 +21,7 @@
 * [__семинар 11__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week11_bagging-bvd), 26.01.2022 – Разложение ошибки на смещение и разброс, беггинг
 * [__семинар 12__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week12_gb), 02.02.2022 – Бустинг в задаче регрессии, градиентный бустинг
 * [__семинар 13__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week13_gb-practice_xgb), 09.02.2022 – Имплементации градиентного бустинга, теория
+* [__семинар 14__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week14_implementations_practice), 16.02.2022 – Имплементации градиентного бустинга, практика
 
 ## Домашние задания
 
