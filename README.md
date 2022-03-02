@@ -22,6 +22,7 @@
 * [__семинар 12__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week12_gb), 02.02.2022 – Бустинг в задаче регрессии, градиентный бустинг
 * [__семинар 13__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week13_gb-practice_xgb), 09.02.2022 – Имплементации градиентного бустинга, теория
 * [__семинар 14__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week14_implementations_practice), 16.02.2022 – Имплементации градиентного бустинга, практика
+* [__семинар 15__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/week15_clustering), 02.03.2022 – Обзор основных метрик и моделей кластеризации
 
 ## Домашние задания
 
