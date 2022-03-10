@@ -37,6 +37,7 @@
 * [__ДЗ-4__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/blob/main/hw/hw4_text_classification/homework-practice-04-classification.ipynb): Линейная классификация. Классификация текстов
 * [__ДЗ-5__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/hw/hw5_trees): Решающие деревья
 * [__ДЗ-6__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/blob/main/hw/hw6_bvd/homework-practice-06-bvd.ipynb): Разложение ошибки на смещение и разброс, дедлайн 27 февраля
+* [__ДЗ-7__](https://github.com/AnastasiyaMax/MLDS_ml_course_fall21/tree/main/hw/hw7_boosting): Бустинги
 
 ## Формула оценки
 
